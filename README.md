@@ -36,3 +36,7 @@ git remote add origin https://github.com/pratiksha0604/portfolio.git
 git push -u origin main
 ```
 Then enable GitHub Pages (Settings -> Pages -> main / root).
+
+## Live Site
+https://pratiksha0604-portfolio.netlify.app
+
